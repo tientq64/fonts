@@ -1,0 +1,8 @@
+@font-face{font-family:SFProText;src:url(SFProText/sf-pro-text-regular.woff2)}
+@font-face{font-family:SFProText;font-style:italic;src:url(SFProText/sf-pro-text-regularitalic.woff2)}
+@font-face{font-family:SFProText;font-weight:bold;src:url(SFProText/sf-pro-text-bold.woff2)}
+@font-face{font-family:SFProText;font-weight:bold;font-style:italic;src:url(SFProText/sf-pro-text-bolditalic.woff2)}
+@font-face{font-family:SFProDisplay;src:url(SFProDisplay/sf-pro-display-regular.woff2)}
+@font-face{font-family:SFProDisplay;font-style:italic;src:url(SFProDisplay/sf-pro-display-regularitalic.woff2)}
+@font-face{font-family:SFProDisplay;font-weight:bold;src:url(SFProDisplay/sf-pro-display-bold.woff2)}
+@font-face{font-family:SFProDisplay;font-weight:bold;font-style:italic;src:url(SFProDisplay/sf-pro-display-bolditalic.woff2)}
