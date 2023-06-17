@@ -5,6 +5,7 @@
       url("./IntelOneMono/intelone-mono-font-family-regular.ttf") format("ttf");
    font-weight: 400;
    font-style: normal;
+   size-adjust: 87.5%;
 }
 @font-face {
    font-family: "IntelOne Mono";
@@ -13,6 +14,7 @@
       url("./IntelOneMono/intelone-mono-font-family-italic.ttf") format("ttf");
    font-weight: 400;
    font-style: italic;
+   size-adjust: 87.5%;
 }
 @font-face {
    font-family: "IntelOne Mono";
@@ -21,6 +23,7 @@
       url("./IntelOneMono/intelone-mono-font-family-bold.ttf") format("ttf");
    font-weight: 700;
    font-style: normal;
+   size-adjust: 87.5%;
 }
 @font-face {
    font-family: "IntelOne Mono";
@@ -29,6 +32,7 @@
       url("./IntelOneMono/intelone-mono-font-family-bolditalic.ttf") format("ttf");
    font-weight: 700;
    font-style: italic;
+   size-adjust: 87.5%;
 }
 @font-face {
    font-family: "IntelOne Mono";
@@ -37,6 +41,7 @@
       url("./IntelOneMono/intelone-mono-font-family-medium.ttf") format("ttf");
    font-weight: 500;
    font-style: normal;
+   size-adjust: 87.5%;
 }
 @font-face {
    font-family: "IntelOne Mono";
@@ -45,6 +50,7 @@
       url("./IntelOneMono/intelone-mono-font-family-mediumitalic.ttf") format("ttf");
    font-weight: 500;
    font-style: italic;
+   size-adjust: 87.5%;
 }
 @font-face {
    font-family: "IntelOne Mono";
@@ -53,6 +59,7 @@
       url("./IntelOneMono/intelone-mono-font-family-light.ttf") format("ttf");
    font-weight: 300;
    font-style: normal;
+   size-adjust: 87.5%;
 }
 @font-face {
    font-family: "IntelOne Mono";
@@ -61,4 +68,5 @@
       url("./IntelOneMono/intelone-mono-font-family-lightitalic.ttf") format("ttf");
    font-weight: 300;
    font-style: italic;
+   size-adjust: 87.5%;
 }
